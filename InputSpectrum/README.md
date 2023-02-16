@@ -1,0 +1,1 @@
+This directory contains the input stellar spectra for the CAMEMBERT intercomparison. The spectra are taken from the BT-Settl models as outlined in Christie et al. 2002. See the file headers for the stellar Teq, [Fe/H], and log(g).
